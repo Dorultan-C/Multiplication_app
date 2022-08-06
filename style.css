@@ -24,7 +24,7 @@ body {
   font-size: 25px;
   text-align: center;
   padding: 10px;
-  border: solid 4px greenyellow;
+  border: solid 4px rgb(42, 51, 30);
   color: rgb(22, 36, 36);
 }
 
@@ -52,6 +52,6 @@ body {
 }
 
 .score {
-  color: aquamarine;
+  color: rgb(35, 41, 39);
   text-align: right;
 }
